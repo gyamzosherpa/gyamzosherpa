@@ -35,14 +35,14 @@ I just love coding. I have been learning to code for more than 3 and a half year
 </p>
                   
                   
-<div style={{display:"flex"}}>
+<p align="left">
 <h3>Social</h3>
                           
- <a href="https://www.facebook.com/gyamzo117" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a href="https://www.facebook.com/gyamzo117" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                                                     
 <a href="http://www.instagram.com/gyamzo_sherpa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-</div>
+</p>
 <hr/>
 
 <b>My GitHub Stats</b>
@@ -60,5 +60,5 @@ I just love coding. I have been learning to code for more than 3 and a half year
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/gyamzosherpa/twitter-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=twitter-clone&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a>
  <br/>
-<a href="https://github.com/gyamzosherpa/MiStore_clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=MiStore_clone&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a></div><br />
-<a href="https://github.com/gyamzosherpa/materialUI_App" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=materialUI_App&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a>
+<a href="https://github.com/gyamzosherpa/MiStore_clone" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=MiStore_clone&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a></div><br />
+<a href="https://github.com/gyamzosherpa/materialUI_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=materialUI_App&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a>
