@@ -46,6 +46,7 @@ I just love coding. I have been learning to code for more than 3 and a half year
  
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/gyamzosherpa/twitter-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=twitter-clone&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a>
+  <div width="100%" align="center"><a href="https://github.com/gyamzosherpa/mern_ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=mern_ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div>
  <br/>
 <a href="https://github.com/gyamzosherpa/MiStore_clone" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=MiStore_clone&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a></div><br />
 <a href="https://github.com/gyamzosherpa/materialUI_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=materialUI_App&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=581c87&hide_border=true&locale=en" /></a>
