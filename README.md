@@ -50,3 +50,8 @@ I just love coding. I have been learning to code for more than 3 and a half year
 <hr/>
 
 <a href="https://github.com/gyamzosherpa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyamzosherpa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
+<hr/>
+
+<b>My GitHub Stats</b>
+<a href="http://www.github.com/gyamzosherpa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gyamzosherpa&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
