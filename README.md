@@ -54,4 +54,8 @@ I just love coding. I have been learning to code for more than 3 and a half year
 <hr/>
 
 <b>My GitHub Stats</b>
+<br/>
 <a href="http://www.github.com/gyamzosherpa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gyamzosherpa&stroke=ffffff&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/>
+<br/>
+<a href="http://www.github.com/gyamzosherpa"><img src="https://activity-graph.herokuapp.com/graph?username=gyamzosherpa&bg_color=312e81&color=ffffff&line=0891b2&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
