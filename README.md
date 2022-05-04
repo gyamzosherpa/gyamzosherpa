@@ -67,14 +67,15 @@ src="https://img.shields.io/github/followers/gyamzosherpa?logo=github&style=for-
 
 </p>
                   
-<h5>Social</h5>             
-<div className="social">
+                  
+<p align="left">
+<h3>Social</h3>
                           
 <a href="https://www.facebook.com/gyamzo117" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
                                                     
 <a href="http://www.instagram.com/gyamzo_sherpa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-</div>
+</p>
 
 <hr/>
  
