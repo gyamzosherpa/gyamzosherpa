@@ -12,6 +12,7 @@ I just love coding. I have been learning to code for more than 3 and a half year
 
 <a href="https://www.github.com/gyamzosherpa" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/gyamzosherpa?logo=github&style=for-the-badge&color=84cc16&labelColor=581c87" /></a><br/>
+                  <hr/>
 <b>Skills</b>
 
 <p align="left">
