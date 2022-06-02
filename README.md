@@ -1,10 +1,10 @@
 # 💫About Me :
 I just love coding. I have been learning to code for more than 3 and a half years. My first project was an "online store" based on PHP, it was a group project, later I switched to MERN. Since then I do coding using MERN because I m been in love with this programming language.
 
-🌍  I'm based in kathmandu, Nepal
-✉️  You can contact me at megyamzo20@gmail.com
-🧠  I'm learning React Native and advanced MERN
-🤝  I'm open to collaborating on Interesting projects
+🌍  I'm based in kathmandu, Nepal <br/>
+✉️  You can contact me at megyamzo20@gmail.com <br/>
+🧠  I'm learning React Native and advanced MERN <br/>
+🤝  I'm open to collaborating on Interesting projects <br/>
 ⚡  I love making coding tutorials videos.
 
 <a href="https://www.github.com/gyamzosherpa" target="_blank" rel="noreferrer"><img
