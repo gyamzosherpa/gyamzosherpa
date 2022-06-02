@@ -1,4 +1,4 @@
-# 💫Hi, i am Gyamzo Sherpa :
+# 💫Hi, I am Gyamzo Sherpa :
 I just love coding. I have been learning to code for more than 3 and a half years. My first project was an "online store" based on PHP, it was a group project, later I switched to MERN. Since then I do coding using MERN because I m been in love with this programming language.
 
 🌍  I'm based in kathmandu, Nepal <br/><br/>
