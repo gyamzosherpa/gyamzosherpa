@@ -35,7 +35,7 @@ I just love coding. I have been learning to code for more than 3 and a half year
 </p>
 <hr/>
                                    
- <div align="center">
+ <div align="left">
  <h3>Connect with me</h3>
 <a href="https://www.youtube.com/channel/UCFnf2HwF3MgTJDl2vcc4DNw" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
