@@ -1,5 +1,5 @@
 # 💫Hi, I am Gyamzo Sherpa :
-I just love coding. I have been learning to code for more than 3 and a half years. My first project was an "online store" based on PHP, it was a group project, later I switched to MERN. Since then I do coding using MERN because I m been in love with this programming language.
+I am a passionate MERN developer from Nepal, AND i m specialized in Frontend development.  
 
 🌍  I'm based in kathmandu, Nepal <br/>
 ✉️  You can contact me at megyamzo20@gmail.com <br/>
@@ -38,12 +38,6 @@ I just love coding. I have been learning to code for more than 3 and a half year
 ![](https://github-readme-stats.vercel.app/api?username=gyamzosherpa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gyamzosherpa&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyamzosherpa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/gyamzosherpa/MERN-Bootstrap" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=MERN-Bootstrap&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/gyamzosherpa/materialUI_App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gyamzosherpa&repo=materialUI_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gyamzosherpa&icon=0&color=0)](https://visitcount.itsvg.in)
 
