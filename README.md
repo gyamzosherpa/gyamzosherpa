@@ -22,7 +22,9 @@ I am a passionate MERN developer from Nepal, AND i m specialized in Frontend dev
 <a href="https://www.instagram.com/gyamzo_sherpa/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyamzo-sherpa-07a7b81bb) 
+<a href="https://www.linkedin.com/in/gyamzo-sherpa-07a7b81bb/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/MrGyamzo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
