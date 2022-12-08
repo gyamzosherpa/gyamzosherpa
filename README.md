@@ -37,11 +37,6 @@ I am a passionate MERN developer from Nepal, AND i m specialized in Frontend dev
 
 <hr/>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=gyamzosherpa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gyamzosherpa&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gyamzosherpa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=gyamzosherpa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
