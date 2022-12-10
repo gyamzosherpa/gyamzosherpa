@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gyamzo Sherpa</h1>
-<h3 align="center">A passionate MERN and Python developer from Nepal</h3>
+<h1 style="text-align:left">Hi 👋, I'm Gyamzo Sherpa</h1>
+<h3 style="text-align:left">A passionate MERN and Python developer from Nepal</h3>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -9,4 +9,4 @@
 
 <h2>Social</h2>
 <a href="https://www.facebook.com/gyamzo117/">Facebook<a/>
-<a href="https://www.facebook.com/gyamzo_sherpa/">Instagram<a/>
+<a href="https://www.instagram.com/gyamzo_sherpa/">Instagram<a/>
