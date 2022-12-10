@@ -6,4 +6,4 @@
 <hr>
 
 <h1>Socials</h1>
-<p><a href="https://www.facebook.com/gyamzo117/">Facebook</a></p>
+<a href="https://www.facebook.com/gyamzo117/">Facebook</a> <a href="https://www.facebook.com/gyamzo117/">Instagram</a>
