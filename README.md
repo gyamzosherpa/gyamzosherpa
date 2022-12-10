@@ -1,5 +1,5 @@
 <h1 style="text-align:left">Hi 👋, I'm Gyamzo Sherpa</h1>
-<h3 style="text-align:left">A passionate MERN and Python developer from Nepal</h3>
+<p style="text-align:left; font-weight:bold">A passionate MERN and Python developer from Nepal</p>
 
 - 🌱 I’m currently learning **React Native**
 
