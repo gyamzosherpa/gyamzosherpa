@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Gyamzo Sherpa</h1>
-<h3>AI/ML Engineer & Full-Stack Developer | Troy University</h3>
+<h3>Full-Stack Developer | RAG Pipelines • LLMs • Vector Databases • React • Node.js | </h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CS Student at **Troy University**, Alabama
 - 🔭 Currently building: **AI-powered systems** with RAG pipelines, LLMs, and vector databases
 - 🧠 Specializing in: **Applied Machine Learning**, full-stack deployment, and LLM integration
 - 💬 Ask me about: **RAG pipelines, pgvector, LLM fine-tuning, React, Node.js, PostgreSQL**
@@ -57,7 +56,7 @@
 #### 🤖 [TalentLens](https://github.com/gyamzosherpa/talentlens-) — AI-Powered Technical Interview Platform
 > Full-stack interview automation system built with RAG, LLMs, and real-time evaluation
 
-- **54-file** production-grade system: React/Vite frontend + Node.js/Express backend
+- React/Vite frontend + Node.js/Express backend
 - **Hybrid RAG pipeline** — 70% vector search (pgvector + HNSW) / 30% BM25 lexical retrieval
 - **Multi-round interview** flow: Resume Q&A → MCQ → DSA coding challenges
 - **LLM stack**: Llama-3.1-8B-Instruct (Cerebras), BAAI/bge-base-en-v1.5 embeddings
