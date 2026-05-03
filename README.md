@@ -13,3 +13,6 @@
 ## 📌 Featured Projects
 - **[TalentLens](https://github.com/gyamzosherpa/talentlens-)** — AI-powered technical interview platform (RAG + LLMs)
 - **[ShopVerse](https://github.com/gyamzosherpa/shop_verse)** — Full-stack MERN e-commerce platform
+
+
+![Gyamzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyamzosherpa&show_icons=true&theme=tokyonight)
