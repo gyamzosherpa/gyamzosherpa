@@ -13,7 +13,7 @@
 - 🔭 Currently building: **AI-powered systems** with RAG pipelines, LLMs, and vector databases
 - 🧠 Specializing in: **Applied Machine Learning**, full-stack deployment, and LLM integration
 - 💬 Ask me about: **RAG pipelines, pgvector, LLM fine-tuning, React, Node.js, PostgreSQL**
-- 📫 Reach me at: **gyamzosherpa@troy.edu**
+- 📫 Reach me at: **megyamzo20@gmail.com**
 
 ---
 
@@ -111,7 +111,7 @@
   <a href="https://linkedin.com/in/gyamzosherpa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gyamzosherpa@troy.edu">
+  <a href="mailto:megyamzo20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/gyamzosherpa" target="_blank">
