@@ -12,6 +12,29 @@
 
 ---
 
+### 📌 Featured Projects
+
+#### 🤖 [TalentLens](https://github.com/gyamzosherpa/talentlens-) — AI-Powered Technical Interview Platform
+> Full-stack interview automation system built with RAG, LLMs, and real-time evaluation
+
+- React/Vite frontend + Node.js/Express backend
+- **Hybrid RAG pipeline** — 70% vector search (pgvector + HNSW) / 30% BM25 lexical retrieval
+- **Multi-round interview** flow: Resume Q&A → MCQ → DSA coding challenges
+- **LLM stack**: Llama-3.1-8B-Instruct (Cerebras), BAAI/bge-base-en-v1.5 embeddings
+- Real-time scoring via **Socket.IO** + LLM-generated hiring verdicts
+- Admin dashboard with training data export & question review queue
+
+`React` `Node.js` `PostgreSQL` `pgvector` `Socket.IO` `LLaMA` `RAG` `Docker`
+
+---
+
+#### 🛒 [ShopVerse](https://github.com/gyamzosherpa/shop_verse) — Full-Stack MERN E-Commerce Platform
+> Complete e-commerce solution with authentication, product management, and cart system
+
+`MongoDB` `Express` `React` `Node.js`
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -48,29 +71,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-#### 🤖 [TalentLens](https://github.com/gyamzosherpa/talentlens-) — AI-Powered Technical Interview Platform
-> Full-stack interview automation system built with RAG, LLMs, and real-time evaluation
-
-- React/Vite frontend + Node.js/Express backend
-- **Hybrid RAG pipeline** — 70% vector search (pgvector + HNSW) / 30% BM25 lexical retrieval
-- **Multi-round interview** flow: Resume Q&A → MCQ → DSA coding challenges
-- **LLM stack**: Llama-3.1-8B-Instruct (Cerebras), BAAI/bge-base-en-v1.5 embeddings
-- Real-time scoring via **Socket.IO** + LLM-generated hiring verdicts
-- Admin dashboard with training data export & question review queue
-
-`React` `Node.js` `PostgreSQL` `pgvector` `Socket.IO` `LLaMA` `RAG` `Docker`
-
----
-
-#### 🛒 [ShopVerse](https://github.com/gyamzosherpa/shop_verse) — Full-Stack MERN E-Commerce Platform
-> Complete e-commerce solution with authentication, product management, and cart system
-
-`MongoDB` `Express` `React` `Node.js`
 
 ---
 
