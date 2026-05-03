@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gyamzo Sherpa</h1>
-<h3 align="center">AI/ML Engineer & Full-Stack Developer | Troy University</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gyamzosherpa&label=Profile%20views&color=0e75b6&style=flat" alt="gyamzosherpa" />
-</p>
+<h1>Hi 👋, I'm Gyamzo Sherpa</h1>
+<h3>AI/ML Engineer & Full-Stack Developer | Troy University</h3>
 
 ---
 
