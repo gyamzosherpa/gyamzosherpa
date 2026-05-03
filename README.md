@@ -72,19 +72,6 @@
 
 ---
 
-#### 🛡️ Data Poisoning Detection for Healthcare LLMs
-> ML security pipeline to detect and mitigate label-flip attacks on biomedical NLP models
-
-- **4-phase workflow**: Clean training → Label-flip attack (7% poison rate) → Detection → Recovery
-- **Hybrid detection**: Training dynamics (SGDClassifier) + Semantic inconsistency scoring
-- **Semantic scoring**: KNN outlier detection + centroid cosine incoherence with BiomedBERT
-- Auto-calibrated fusion weights via **F1 score optimization**
-- Embedding proxy: TF-IDF / LSA for efficient large-scale processing
-
-`Python` `BiomedBERT` `scikit-learn` `NLP` `ML Security` `Healthcare AI`
-
----
-
 #### 🛒 [ShopVerse](https://github.com/gyamzosherpa/shop_verse) — Full-Stack MERN E-Commerce Platform
 > Complete e-commerce solution with authentication, product management, and cart system
 
